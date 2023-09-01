@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
         title: Text('Deo Swesley Tampubolon_Praktikum Minggu 2 PBB')
       ),
       body: Center(
-        child: Column (
+        child: Row (
           mainAxisAlignment: MainAxisAlignment.center,
           children:<Widget>[
             ElevatedButton(
